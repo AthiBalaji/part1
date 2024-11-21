@@ -10,10 +10,7 @@ const Display = (prop) =>{
         {name}: {count}
       </div>
     )
-  }else{
-    return null
   }
-
 }
 
 const Button = (prop) => {
